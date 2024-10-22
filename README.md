@@ -12,7 +12,7 @@ This project demonstrates a simple CRUD (Create, Read, Update, Delete) applicati
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/spring-boot-crud-example.git
+   git clone https://github.com/Krutika0103/SpringBoot-CRUD-Example.git
    
 2. **Navigate to the project directory**:
    cd spring-boot-crud-example
